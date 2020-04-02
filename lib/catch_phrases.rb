@@ -9,4 +9,9 @@ def toadstool
   puts status
 end
 
-def 
+def all_phrases
+  
+  
+  status = 'Thank You Mario! But Our Princess Is In Another Castle!'
+  puts status
+  
