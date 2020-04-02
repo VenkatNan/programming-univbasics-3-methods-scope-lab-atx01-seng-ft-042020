@@ -18,5 +18,8 @@ def all_phrases
   status = 'Thank You Mario! But Our Princess Is In Another Castle!'
   puts status
   
-  here =
+  here ="It's Dangerous To Go Alone! Take This."
+  puts here
+  
+end
   
