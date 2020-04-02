@@ -10,6 +10,11 @@ def toadstool
   puts status
 end
 
+def link
+  here ="It's Dangerous To Go Alone! Take This."
+  puts here
+end
+
 def all_phrases
   
   phrase ="It's-a me, Mario!"
